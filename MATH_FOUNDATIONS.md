@@ -1,6 +1,6 @@
 
 ------------------------------
-## Technical Documentation: Laptop Price Prediction AI
+## Technical Documentation: # Laptop Price Predictor: Mathematical Foundations
 Objective: To build a machine learning pipeline that predicts laptop prices with high accuracy using hardware specifications.
 ------------------------------
 ## 1. Data Engineering & Preprocessing (Day 1-3)
