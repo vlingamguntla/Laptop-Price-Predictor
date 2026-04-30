@@ -1,6 +1,7 @@
 
 ------------------------------
-## 💻 Laptop Price Predictor AI
+## 💻 Laptop Price Predictor
+
 An End-to-End Machine Learning Web Application
 
 
@@ -50,6 +51,7 @@ This project predicts the market price of a laptop based on its hardware specifi
 ------------------------------
 ## 📁 Project Structure
 
+```text
 ├── Analysis.ipynb       # Full EDA, Feature Engineering, and Model Training
 ├── app.py               # Streamlit UI and prediction logic
 ├── MATH_FOUNDATIONS.md  # Deep dive into the math/logic used
@@ -57,7 +59,7 @@ This project predicts the market price of a laptop based on its hardware specifi
 ├── pipe.pkl             # Trained ML Pipeline (The Brain)
 ├── df.pkl               # Cleaned data for the UI dropdowns
 └── requirements.txt     # List of required Python libraries
-
+```
 ------------------------------
 ## 🔗 Dataset
 The data used in this project was sourced from [Kaggle: Laptop Price Dataset](https://www.kaggle.com/datasets/ironwolf437/laptop-price-dataset).
