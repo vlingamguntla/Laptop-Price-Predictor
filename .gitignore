@@ -1,0 +1,18 @@
+# This ignores the hidden folder Jupyter makes every time you save
+.ipynb_checkpoints/
+
+# This ignores the folder Python makes when it runs your code
+__pycache__/
+
+# This ignores Windows-specific folder icons/thumbnails
+Thumbs.db
+
+# Ignore the raw dataset files (API handles this)
+*.csv
+
+# Ignore the virtual environment if you created one
+venv/
+.env
+
+# Ignore temporary Kaggle zip files
+*.zip
